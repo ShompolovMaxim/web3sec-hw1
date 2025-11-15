@@ -1,4 +1,4 @@
-module bridge-relay
+module server
 
 go 1.21
 
